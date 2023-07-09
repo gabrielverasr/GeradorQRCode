@@ -23,7 +23,7 @@ Se você não está familiarizado com arquivos em Python ou clonagem do GitHub e
 1. Clone este repositório para o seu ambiente local.
 2. Crie um ambiente virtual e ative-o (opcional, mas recomendado).
 3. Instale as dependências necessárias executando o comando: `pip install -r requirements.txt`.
-4. Execute o aplicativo com o comando: `python main.py`.
+4. Execute o aplicativo com o comando: `python GeradorQRCode.py`.
 5. Digite o link desejado na caixa de texto.
 6. Clique no botão "Gerar QR Code" para gerar o QR Code.
 7. O QR Code será salvo automaticamente como uma imagem na sua área de trabalho.
