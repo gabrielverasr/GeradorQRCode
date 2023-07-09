@@ -14,6 +14,8 @@ O Gerador de QR Code é uma ferramenta simples para gerar QR Codes a partir de l
 ## ⬇️ Download executável Windows
 Se você não está familiarizado com arquivos em Python ou clonagem do GitHub e deseja baixar o arquivo executável (.exe) do projeto, você pode acessar o seguinte link: https://drive.google.com/file/d/1dNQdLZKZ-zGte4gA37x4SAD3apFHgGYt/view?usp=sharing. Basta clicar no link e fazer o download do arquivo para o seu computador. Em seguida, você poderá executar o aplicativo diretamente, sem precisar se preocupar com a instalação de Python ou outras dependências.
 
+🛡️ Análise de Ameaças: [![VirusTotal](https://img.shields.io/badge/VirusTotal-Sem%20Ameaças-green)](https://www.virustotal.com/gui/file/cf721c2a007994f7295e1a1528483b7e80b81452e27904a4279d0387b18a8c2e?nocache=1)
+
 ## Pré-requisitos
 - Python 3.x
 - tkinter
